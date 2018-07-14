@@ -10,5 +10,7 @@ public class Desafio {
         System.out.print("Ingrese valor de posicion " + i + " :");
         int[i] = in.nextInt();
       }
+
+      System.out.println("El resultado es: " + resultado);
   }
 }
