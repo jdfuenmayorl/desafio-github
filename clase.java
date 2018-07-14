@@ -12,5 +12,7 @@ public class Desafio {
         int[i] = in.nextInt();
         resultado = resultado + int[i];
       }
+
+      System.out.println("El resultado es: " + resultado);
   }
 }
