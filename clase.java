@@ -12,5 +12,6 @@ public class Desafio {
       }
 
       System.out.println("El resultado es: " + resultado);
+      System.out.println("Gracias por utilizar nuestros servicios");
   }
 }
